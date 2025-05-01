@@ -1,0 +1,34 @@
+Open bash terminal in right side when terminal open + icon 
+
+cd frontend
+
+
+
+install::: npm install -g pnpm (global cmd)
+
+
+
+(Go to the official Build Tools page:
+👉 https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+Download the Build Tools for Visual Studio (not the full IDE)
+
+Run the installer
+
+In the installer, check ✅ “C++ build tools”
+
+Also make sure these are checked (they're usually selected by default):
+
+✅ MSVC v143 or newer
+
+✅ Windows 10/11 SDK
+
+✅ CMake tools for Windows (optional but useful)
+
+Click Install and let it finish)
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+./clean_build.sh
+
+winget install Kitware.CMake
