@@ -1,27 +1,30 @@
 <div align="center" style="border-bottom: none">
     <h1>
-<<<<<<< HEAD
-=======
-        
->>>>>>> fef140f6a67e038d94b3d9736824e5d37ac39fba
+
         <br>
         Transcripto - AI Voice Transcription and Summarization Tool
     </h1>
     <br>
-<<<<<<< HEAD
-=======
+    <a href=""><img src="https://img.shields.io/badge/Pre_Release-v0.0.3-brightgreen" alt="Pre-Release"></a>
+    <a href=""><img src="https://img.shields.io/badge/Stars-1000+-red" alt="Stars"></a>
+    <a href=""><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+    <a href=""><img src="https://img.shields.io/badge/Supported_OS-macOS,_Windows-yellow" alt="Supported OS"></a>
+    <br>
+    <h3>
+    <br>
+    Open source Ai Assistant for taking meeting notes
+
+
     </h3>
     <p align="center">
-    <a href="https://meetily.zackriya.com"><b>Website</b></a> •
-    <a href="https://in.linkedin.com/company/zackriya-solutions"><b>Author</b></a>
-    •
-    <a href="https://discord.gg/crRymMQBFH"><b>Discord Channel</b></a>
+    <a href=""><b>Website</b></a> •
+    <a href=""><b>Author</b></a>
+
 </p>
     <p align="center">
     
  An AI-Powered Meeting Assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure. 
 </p>
->>>>>>> fef140f6a67e038d94b3d9736824e5d37ac39fba
 
     <p align="center">
         An AI-Powered Meeting Assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure.
@@ -288,17 +291,3 @@ chmod +x build_whisper.sh
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
-
-## License
-
-MIT License - Feel free to use this project for your own purposes.
-
-## Introducing Subscription
-
-We are planning to add a subscription option so that you don't have to run the backend on your own server. This will help you scale better and run the service 24/7. This is based on a few requests we received. If you are interested, please fill out the form [here](http://zackriya.com/aimeeting/).
-
-Last updated: March 3, 2025
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Zackriya-Solutions/meeting-minutes&type=Date)](https://star-history.com/#Zackriya-Solutions/meeting-minutes&Date)
