@@ -1,18 +1,10 @@
 <div align="center" style="border-bottom: none">
     <h1>
-        <img src="docs/6.png" width="400" style="border-radius: 10px;" />
+        
         <br>
         Transcripto - AI Voice Transcription and Summarization Tool
     </h1>
     <br>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases/tag/v0.0.3"><img src="https://img.shields.io/badge/Pre_Release-v0.0.3-brightgreen" alt="Pre-Release"></a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases/tag/v0.0.3"><img src="https://img.shields.io/badge/Stars-1000+-red" alt="Stars"></a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases/tag/v0.0.3"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases/tag/v0.0.3"><img src="https://img.shields.io/badge/Supported_OS-macOS,_Windows-yellow" alt="Supported OS"></a>
-    <br>
-    <h3>
-    <br>
-    Open source Ai Assistant for taking meeting notes
     </h3>
     <p align="center">
     <a href="https://meetily.zackriya.com"><b>Website</b></a> •
