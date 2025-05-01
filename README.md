@@ -1,9 +1,27 @@
 <div align="center" style="border-bottom: none">
     <h1>
+<<<<<<< HEAD
+=======
+        
+>>>>>>> fef140f6a67e038d94b3d9736824e5d37ac39fba
         <br>
         Transcripto - AI Voice Transcription and Summarization Tool
     </h1>
     <br>
+<<<<<<< HEAD
+=======
+    </h3>
+    <p align="center">
+    <a href="https://meetily.zackriya.com"><b>Website</b></a> •
+    <a href="https://in.linkedin.com/company/zackriya-solutions"><b>Author</b></a>
+    •
+    <a href="https://discord.gg/crRymMQBFH"><b>Discord Channel</b></a>
+</p>
+    <p align="center">
+    
+ An AI-Powered Meeting Assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure. 
+</p>
+>>>>>>> fef140f6a67e038d94b3d9736824e5d37ac39fba
 
     <p align="center">
         An AI-Powered Meeting Assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure.
