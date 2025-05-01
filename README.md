@@ -1,42 +1,17 @@
-<div align="center" style="border-bottom: none">
-    <h1>
+<div align="center">
 
-        <br>
-        Transcripto - AI Voice Transcription and Summarization Tool
-    </h1>
-    <br>
-    <a href=""><img src="https://img.shields.io/badge/Pre_Release-v0.0.3-brightgreen" alt="Pre-Release"></a>
-    <a href=""><img src="https://img.shields.io/badge/Stars-1000+-red" alt="Stars"></a>
-    <a href=""><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-    <a href=""><img src="https://img.shields.io/badge/Supported_OS-macOS,_Windows-yellow" alt="Supported OS"></a>
-    <br>
-    <h3>
-    <br>
-    Open source Ai Assistant for taking meeting notes
+# Transcripto - AI Voice Transcription and Summarization Tool
 
+### Open source AI Assistant for taking meeting notes
 
-    </h3>
-    <p align="center">
-    <a href=""><b>Website</b></a> •
-    <a href=""><b>Author</b></a>
+An AI-powered meeting assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure.
 
-</p>
-    <p align="center">
-    
- An AI-Powered Meeting Assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure. 
-</p>
-
-    <p align="center">
-        An AI-Powered Meeting Assistant that captures live meeting audio, transcribes it in real-time, and generates summaries while ensuring user privacy. Perfect for teams who want to focus on discussions while automatically capturing and organizing meeting content without the need for external servers or complex infrastructure.
-    </p>
-
-    <p align="center">
-        <img src="docs/demo_small.gif" width="650" alt="Meetily Demo" />
-        <br>
-        <a href="https://youtu.be/5k_Q5Wlahuk">View full Demo Video</a>
-    </p>
+![Demo](docs/demo_small.gif)
+[View full Demo Video](https://youtu.be/5k_Q5Wlahuk)
 
 </div>
+
+---
 
 ## Overview
 
@@ -210,9 +185,6 @@ Go to the [releases page](https://github.com/Zackriya-Solutions/meeting-minutes/
 - Double-click the `.dmg` file inside the extracted folder
 - Drag the application to your Applications folder
 - Execute the following command in terminal to remove the quarantine attribute:
-  ```
-  xattr -c /Applications/meeting-minutes-frontend.app
-  ```
 
 Provide necessary permissions for audio capture and microphone access.
 
@@ -233,7 +205,7 @@ chmod +x clean_build.sh
 
 ```bash
 # Clone the repository
-git clone https://github.com/Zackriya-Solutions/meeting-minutes.git
+git clone
 cd meeting-minutes/backend
 
 # Create and activate virtual environment
